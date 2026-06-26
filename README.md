@@ -2,6 +2,12 @@
 
 # 🛸 App Blueprint Vault — 24 packs de skills para tu IA de código
 
+![Versión](https://img.shields.io/badge/versi%C3%B3n-2.0.0-6f42c1)
+![Skills](https://img.shields.io/badge/skills-590%2B-22c55e)
+![Packs](https://img.shields.io/badge/packs-24-0ea5e9)
+![Licencia](https://img.shields.io/badge/licencia-CC%20BY--NC--SA%204.0-blue)
+![Offline](https://img.shields.io/badge/offline-zero--deps-444)
+
 > **Convierte cualquier IA (Claude, Cursor, Codex, Windsurf…) en un especialista** con el
 > conocimiento de más de 580 skills profesionales, organizadas en 24 áreas.
 > Gratis, sin conexión, instalable en 2 minutos.
@@ -18,8 +24,9 @@ las mejores prácticas de un área (marketing, desarrollo, finanzas, legal, dato
 de *skill* que la IA activa automáticamente cuando la necesita. Resultado: menos alucinaciones,
 más criterio profesional, código y entregables a la altura.
 
-Forma parte de **App Blueprint Generator**, la herramienta que transforma una idea de negocio
-en un paquete arquitectónico completo para que una IA lo construya bien a la primera.
+Forma parte de **[App Blueprint Generator](https://github.com/jesusgarciafernandez/app-blueprint-generator)**,
+la herramienta que transforma una idea de negocio en un paquete arquitectónico completo para que
+una IA lo construya bien a la primera.
 
 ## Instalación en 2 minutos
 
@@ -33,6 +40,13 @@ En tu Claude (Code / Cowork):
 /plugin install marketing-digital@app-blueprint-vault
 /plugin install desarrollo-de-software@app-blueprint-vault
 ```
+
+## ¿Cómo funciona una skill?
+
+Cada skill es un manual técnico con una cabecera (`name` + `description`) que tu IA **lee y activa
+sola** cuando la tarea encaja. No tienes que invocarlas: instalas el pack y el agente usa la skill
+adecuada en el momento justo. Las skills largas incluyen un `reference.md` que se carga solo cuando
+hace falta el detalle (menos consumo, más precisión).
 
 ## Los 24 packs disponibles
 
