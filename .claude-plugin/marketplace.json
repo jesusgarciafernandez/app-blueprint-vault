@@ -1,0 +1,229 @@
+{
+  "name": "app-blueprint-vault",
+  "owner": {
+    "name": "Jesús García Fernández",
+    "email": "contacto@jesusgarciafernandez.com"
+  },
+  "metadata": {
+    "description": "Bóveda de skills profesionales de App Blueprint Generator.",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "marketing-digital",
+      "source": "./packs/marketing-digital",
+      "description": "Marketing Digital — 44 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "generacion-de-contenido",
+      "source": "./packs/generacion-de-contenido",
+      "description": "Generación de Contenido — 70 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "diseno-y-creatividad",
+      "source": "./packs/diseno-y-creatividad",
+      "description": "Diseño y Creatividad — 6 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "comunicacion-y-marca-digital",
+      "source": "./packs/comunicacion-y-marca-digital",
+      "description": "Comunicación y Marca Digital — 24 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "gestion-de-leads-y-crm",
+      "source": "./packs/gestion-de-leads-y-crm",
+      "description": "Gestión de Leads y CRM — 6 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "ventas-y-comercio-electronico",
+      "source": "./packs/ventas-y-comercio-electronico",
+      "description": "Ventas y Comercio Electrónico — 19 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "atencion-al-cliente",
+      "source": "./packs/atencion-al-cliente",
+      "description": "Atención al Cliente — 8 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "estrategia-y-operaciones",
+      "source": "./packs/estrategia-y-operaciones",
+      "description": "Estrategia y Operaciones — 13 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "productividad-y-operaciones",
+      "source": "./packs/productividad-y-operaciones",
+      "description": "Productividad y Operaciones — 31 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "proyectos-y-colaboracion",
+      "source": "./packs/proyectos-y-colaboracion",
+      "description": "Proyectos y Colaboración — 19 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "recursos-humanos",
+      "source": "./packs/recursos-humanos",
+      "description": "Recursos Humanos — 47 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "finanzas-y-contabilidad",
+      "source": "./packs/finanzas-y-contabilidad",
+      "description": "Finanzas y Contabilidad — 23 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "legal-y-cumplimiento",
+      "source": "./packs/legal-y-cumplimiento",
+      "description": "Legal y Cumplimiento — 37 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "datos-y-analitica",
+      "source": "./packs/datos-y-analitica",
+      "description": "Datos y Analítica — 22 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "inteligencia-artificial",
+      "source": "./packs/inteligencia-artificial",
+      "description": "Inteligencia Artificial — 36 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "desarrollo-de-software",
+      "source": "./packs/desarrollo-de-software",
+      "description": "Desarrollo de Software — 17 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "desarrollo-y-tecnologia",
+      "source": "./packs/desarrollo-y-tecnologia",
+      "description": "Desarrollo y Tecnología — 55 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "investigacion-e-inteligencia-de-negocio",
+      "source": "./packs/investigacion-e-inteligencia-de-negocio",
+      "description": "Investigación e Inteligencia de Negocio — 37 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "comunicacion-y-mensajeria",
+      "source": "./packs/comunicacion-y-mensajeria",
+      "description": "Comunicación y Mensajería — 10 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "educacion-y-formacion",
+      "source": "./packs/educacion-y-formacion",
+      "description": "Educación y Formación — 18 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "eventos-y-webinars",
+      "source": "./packs/eventos-y-webinars",
+      "description": "Eventos y Webinars — 2 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "salud-y-bienestar",
+      "source": "./packs/salud-y-bienestar",
+      "description": "Salud y Bienestar — 10 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "inmobiliario-y-gestion-de-activos",
+      "source": "./packs/inmobiliario-y-gestion-de-activos",
+      "description": "Inmobiliario y Gestión de Activos — 5 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    },
+    {
+      "name": "logistica-y-operaciones-fisicas",
+      "source": "./packs/logistica-y-operaciones-fisicas",
+      "description": "Logística y Operaciones Físicas — 24 skills.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jesús García Fernández"
+      }
+    }
+  ]
+}

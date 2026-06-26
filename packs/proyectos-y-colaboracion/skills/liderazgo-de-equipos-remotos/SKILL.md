@@ -1,0 +1,60 @@
+---
+name: liderazgo-de-equipos-remotos
+description: "Habilidad directiva avanzada para liderar, motivar y coordinar equipos distribuidos geográficamente que operan en diferentes zonas horarias y contextos culturales. Úsala para tareas de Proyectos y Colaboración: remote-work, distributed-teams, asynchronous-communication, leadership, virtual-collaboration, digital-nomad."
+title: Liderazgo de Equipos Remotos
+version: 2.0
+author: Jesús García Fernández
+website: jesusgarciafernandez.com
+created: 2026-04-01
+updated: 2026-04-17
+category: 10. Proyectos y Colaboración
+subcategory: Gestión de Proyectos
+tags: ['remote-work', 'distributed-teams', 'asynchronous-communication', 'leadership', 'virtual-collaboration', 'digital-nomad', 'transparency', 'accountability']
+
+license: CC BY-NC-SA 4.0
+license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+notice: >
+  Esta skill es de autoría original de Jesús García Fernández.
+  Permitido su uso personal y educativo citando la fuente.
+  Prohibida su venta, redistribución comercial o modificación
+  sin autorización expresa del autor.
+id: 368
+---
+
+## 0. Filosofía Human-Centric AI
+*Esta sección es obligatoria para cumplir con los estándares del App Blueprint Generator.*
+
+**El Rol del Humano:** Supervisión estratégica y validación ética de los resultados generados.
+**Empoderamiento:** Esta Skill dota al profesional de una escala productiva 10x mediante la automatización de la carga cognitiva repetitiva.
+
+## Descripción
+Habilidad directiva avanzada para liderar, motivar y coordinar equipos distribuidos geográficamente que operan en diferentes zonas horarias y contextos culturales. El Liderazgo de Equipos Remotos trasciende la mera supervisión digital; implica el diseño de un ecosistema de confianza, transparencia y comunicación asíncrona efectiva para mantener la productividad y el sentido de pertenencia sin la necesidad de presencia física. Bajo el enfoque "Ops", se profesionaliza mediante la implementación de Manuales de Operación de Equipo (Team Playbooks), el uso de herramientas de visibilidad de carga de trabajo y protocolos de comunicación que priorizan la claridad escrita sobre la "reunionitis".
+
+## Cuándo usarla
+Escenarios que activan esta skill:
+- Implementación de modelos de trabajo 100% remotos o híbridos permanentes.
+- Gestión de proyectos globales con especialistas ubicados en diferentes continentes.
+- Necesidad de escalar el equipo rápidamente atrayendo talento sin barreras geográficas.
+- Reducción de costes operativos asociados a oficinas físicas manteniendo el rendimiento.
+- Fomento de la conciliación vida-trabajo y la autonomía del empleado.
+
+## Requisitos
+- Dominio de herramientas de colaboración virtual (Slack, Microsoft Teams, Notion, Loom).
+- Conocimiento de principios de comunicación asíncrona (Escribir para ser entendido).
+- Habilidad en gestión por resultados (Output-based management) frente a gestión por presencia.
+- Capacidad de inteligencia emocional digital (Empatía a través de la pantalla).
+- Conocimiento de marcos de seguridad de la información y VPNs para entornos distribuidos.
+
+## Instrucciones y Pasos detallados que se debe seguir:
+
+
+## Workflow N8N
+Referencia al archivo `workflow.json` o scripts integrados.
+
+## Notas y advertencias
+- ⚠️ **Mantenimiento Técnico**: Requiere verificación mensual.
+
+## Changelog
+- v1.0 — Versión inicial
+- v1.1 — Enriquecimiento técnico especializado y normalización de formato V1.1
+

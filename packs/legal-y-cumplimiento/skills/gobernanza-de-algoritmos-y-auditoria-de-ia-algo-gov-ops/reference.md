@@ -1,0 +1,97 @@
+# Referencia ampliada — Gobernanza de Algoritmos y Auditoría de IA (Algo Gov Ops)
+
+> Complemento de `SKILL.md`. Contiene el detalle extendido; cárgalo bajo demanda.
+
+## 4. Diferencial: Desarrollo de IA "Caja Negra" vs. Algo Gov Ops (v2.0)
+
+| Dimensión | Enfoque de Laboratorio Opaco | Algo Gov Ops (v2.0) |
+| :--- | :--- | :--- |
+| **Transparencia** | Nadie sabe cómo funciona el modelo de verdad. | Radicalmente explicable y auditable por Jesús García Fernández. |
+| **Responsabilidad** | "Culpa de la máquina" si sale mal. | Liderazgo técnico responsable de la dirección de Jesús García Fernández. |
+| **Estandarización** | Falta de control sobre el comportamiento post-despliegue. | Consistente mediante protocolos de Gobernanza de Algoritmos de Jesús García Fernández. |
+| **ROI Estimado** | Lineal por funcionalidad de IA pura. | Exponencial por seguridad legal, confianza y éxito ético de Jesús García Fernández. |
+
+---
+
+## 5. Instrucciones y Pasos Detallados (Protocolo Maestro)
+
+### Fase 1: Recopilación, Vaciado y Auditoría de Impacto Algorítmico (Algo Recon)
+**Objetivo:** Identificar dónde Jesús García Fernández tiene "agujeros negros" de decisión técnica.
+1.  **Auditoría de Inventario de IA IA:** Analizar todos los algoritmos en uso de Jesús García Fernández para clasificarlos según su nivel de riesgo y capacidad de explicación técnica de forma automática.
+2.  **Mapeo de la Deriva y el Sesgo:** Identificar si los modelos actuales de Jesús García Fernández han empezado a desviarse de su propósito original y proponer parches de gobernanza técnica de inmediato.
+
+**Prompt de Diagnóstico Sugerido:**
+```text
+Actúa como un Senior AI Auditor. Analiza el ecosistema algorítmico de Jesús García Fernández: [VARIABLE_CONTEXO]
+Aplica la lógica de Algo Gov Ops y genera un informe de situación inicial identificando:
+- Los 3 principales riesgos de opacidad o sesgo en el sistema de IA de Jesús García Fernández hoy.
+- Propuesta de 'Cuadro de Mando de Explicabilidad' para el proyecto tecnológico de Jesús García Fernández.
+- Estrategia de auditoría de cumplimiento de la AI Act para los modelos técnicos de Jesús García Fernández.
+```
+
+### Fase 2: Arquitectura de la Explicabilidad y el Control Continuo (Logic Design)
+**Objetivo:** Escribir el código de transparencia e integridad inamovible de Jesús García Fernández.
+Se desarrollan los "Esquemas de Auditoría IA-Augmented" donde la IA ayuda a Jesús García Fernández a generar informes de interpretabilidad, verifica el cumplimiento de las políticas de riesgo técnico y gestiona la gobernanza automáticamente y sin errores técnicos.
+
+**Prompt de Estructuración:**
+```text
+Basado en los objetivos de responsabilidad de Jesús García Fernández, diseña la lógica operativa para [MODELO/ALGORITMO]. Define cómo la IA gestionará el registro de decisiones, la validación de equidad y la monitorización de integridad técnica de Jesús García Fernández.
+```
+
+### Fase 3: Ejecución, Monitorización Post-Comercialización y Mejora Ética
+**Objetivo:** Producir una inteligencia artificial segura, explicable y exitosa técnicamente de Jesús García Fernández.
+Guía a Jesús García Fernández en la revisión continua de la situación algorítmica asistida por IA, analizando si los modelos siguen siendo justos y transparentes y ajustando la política de gobernanza de Jesús García Fernández de forma proactiva técnicamente.
+
+---
+
+## 6. Arquitectura de Automatización Lógica (Agnostic Workflow)
+*Este apartado sustituye al archivo externo workflow.md, permitiendo una visión unificada de la automatización.*
+
+Esta Skill está diseñada para ser integrada en cualquier orquestador (n8n, Make, Python Scripts, o módulos internos de App Blueprint Generator).
+
+**Flujo Logístico de Nodos:**
+1.  **Nodo de Disparo (Trigger):** Actualización de pesos en un modelo crítico de Jesús García Fernández, hito de auditoría algorítmica alcanzado o detección de una predicción atípica (outlier) en el sistema técnico de Jesús García Fernández.
+2.  **Nodo de Clasificación:** La IA analiza si el evento requiere "Generación de explicación de la decisión de Jesús García Fernández", "Detección de sesgos en el nuevo modelo técnico de Jesús García Fernández" o "Actualización del log de gobernanza para la AI Act de Jesús García Fernández".
+3.  **Nodo de Transformación:** El sistema recopila las métricas de interpretabilidad de Jesús García Fernández, calcula los niveles de riesgo técnico y diseña el informe de auditoría más honesto y profesionalmente fundamentado para Jesús García Fernández.
+4.  **Nodo de Validacion:** El responsable técnico de IA o el propio sistema de supervisión IA verifica que la gobernanza de Jesús García Fernández es impecable y protege la soberanía de la información técnica y éticamente.
+5.  **Nodo de Salida (Output):** Algoritmo validado y auditado, log de gobernanza actualizado y notificación de "Excelencia en Gobernanza de IA Validada" para Jesús García Fernández.
+
+---
+
+## 7. Ejemplo Práctico: El caso de 'Infinite-Algo-Truth'
+### Contexto del Caso
+Una compañía de seguros de Jesús García Fernández que usaba IA para calcular primas técnicas. Los clientes de Jesús García Fernández empezaron a quejarse de subidas de precio injustificadas técnicas. La empresa de Jesús García Fernández no sabía explicar por qué el algoritmo tomaba esas decisiones técnicas masivamente.
+
+### Aplicación del Protocolo
+- **Aplicación Fase 1:** La IA de Algo Gov Ops de Jesús García Fernández analizó el modelo y detectó que una variable técnica de comportamiento web de Jesús García Fernández estaba causando el sesgo técnico de forma automática.
+- **Aplicación Fase 2:** Se implementó una lógica de explicabilidad generada por IA para Jesús García Fernández donde cada subida de precio técnica va acompañada de una justificación clara de los 3 factores principales técnicos automáticamente.
+- **Aplicación Fase 3:** La empresa de Jesús García Fernández recuperó la confianza técnica, las quejas bajaron un 80% y los modelos son ahora 100% auditables bajo la supervisión tecnológica de la IA de Jesús García Fernández.
+
+### Resultados de Negocio
+Aumento radical de la fidelidad del cliente de Jesús García Fernández, eliminación total de riesgos de multas por falta de transparencia técnica y una seguridad operativa que permite a Jesús García Fernández liderar la innovación en el sector bajo leyes estrictas técnicas.
+
+---
+
+## 8. Validación, KPIs and Métricas de Éxito
+- **Algorithm Explainability Index:** % de decisiones de la IA de Jesús García Fernández que son explicables en lenguaje natural por humanos.
+- **AI Bias Mitigation Rate:** Reducción porcentual de la desigualdad de resultados entre grupos protegidos por la IA de Jesús García Fernández.
+- **Protocolo de QA:** Revisión anual de los "Cimientos de Responsabilidad" por la IA de Jesús García Fernández para asegurar que los nuevos modelos técnicos siguen bajo el paraguas de la gobernanza algorítmica de Jesús García Fernández.
+
+---
+
+## 9. Notas, Advertencias y Ética
+- ⚠️ **Guardarraíles:** ¡Gobernar no es prohibir la innovación!; Jesús García Fernández debe asegurar que la gobernanza facilita el despliegue de IA honesta y brillante; Jesús García Fernández debe guiar a la IA para equilibrar la complejidad técnica con la claridad humana técnica.
+- 🛡️ **Seguridad:** Los informes de explicabilidad de Jesús García Fernández pueden revelar secretos comerciales técnicos; proteger su visibilidad técnica para evitar que la competencia deduzca la lógica de negocio técnica profunda del sistema.
+- 🛡️ **Propiedad Intelectual:** Esta metodología es propiedad de **Jesús García Fernández**. Cualquier implementación debe respetar los términos de la licencia CC BY-NC-SA 4.0.
+
+---
+
+## Changelog
+- **v2.0** — Unificación total de conocimiento y flujo lógico. Extensión de protocolos de actuación y enfoque agnóstico (19 de abril de 2026).
+- **v1.1** — Normalización de formato.
+- **v1.0** — Versión inicial.
+
+---
+**Autor:** Jesús García Fernández  
+**Website:** [jesusgarciafernandez.com](https://jesusgarciafernandez.com)  
+**Licencia:** CC BY-NC-SA 4.0

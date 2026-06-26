@@ -1,0 +1,45 @@
+# Referencia ampliada — Gestión de la Procrastinación y Regulación Emocional (Execution Ops)
+
+> Complemento de `SKILL.md`. Contiene el detalle extendido; cárgalo bajo demanda.
+
+## 5. Instrucciones y Pasos Detallados (Protocolo Maestro)
+
+### Fase 1: Identificación del Bloqueo y Desglose Atómico
+**Objetivo:** Eliminar la ambigüedad que genera la parálisis.
+1.  **Detección del 'Elefante' (IA):** Identificación automática de tareas que llevan >3 días en la lista sin ser tocadas.
+2.  **Fragmentación mediante Prompting:** Transformación del título genérico (ej: "Hacer informe") en pasos físicos (ej: "Abrir Word", "Escribir el índice", "Citar fuente X").
+
+**Prompt Maestro de Ejecución Radical (Execution Architect):**
+```text
+Actúa como un Senior Project Manager y Psicólogo Conductual. Ayúdame a ejecutar: [TAREA/PROYECTO]. 
+1. Desglose Atómico IA: Divide esta tarea en 10 micro-pasos de menos de 5 minutos cada uno. ¿Qué es lo primero físico que debo hacer (ej: abrir una web)? 
+2. Diagnóstico de la Resistencia: ¿Por qué estoy evitando esto? ¿Es miedo al fracaso, aburrimiento o ambigüedad? Propón un 'antídoto emocional' para eso. 
+3. Diseño de 'Rampa de Inicio': ¿Qué micro-tarea placentera puedo hacer justo antes para 'engañar' a mi cerebro hacia la acción? 
+4. Configuración de Entorno Zero-Distraction: Dime qué apps debo cerrar y qué objeto debo poner en mi mesa para enfocarme en los próximos 25 min. 
+5. Protocolo de 'Borrador Basura': Redacta el permiso que me doy a mí mismo para que lo que escriba en los próximos 15 min sea mediocre, con el fin de romper la página en blanco.
+```
+
+### Fase 2: Ejecución, Gestión del Impulso y Refactorización del Hábito
+... (Expansión técnica sobre el uso de la técnica de 'Intervención de 5 Minutos', la implementación de un proceso de 'Auditoría de Fricción de Herramientas', y la monitorización de la 'Métrica de Tiempo hasta el Inicio' para asegurar que el profesional reduce su resistencia interna día a día) ...
+
+---
+
+## 6. Arquitectura de Automatización Lógica (Agnostic Flow)
+*Lógica de ejecución operativa.*
+
+1.  **Trigger:** Detección de navegación circular en sitios no productivos, hito de tarea vencida en el gestor, o inicio de bloque de tiempo sagrado en el calendario.
+2.  **Nodo de 'Intervención de Conciencia' por IA:** El sistema detecta la procrastinación y lanza un popup suave: "¿Estás evitando [TAREA]? Solo dedícale 2 minutos ahora mismo".
+3.  **Nodo de Simplificación Dinámica de Tarea:** Si el usuario no empieza, la IA propone una versión aún más sencilla de la primera acción (ej: solo mirar el título del documento).
+4.  **Nodo de Bloqueo Proactivo de Dopamina Digital:** El sistema cierra automáticamente pestañas de redes sociales o noticias al detectar que el usuario entra en un bloque de trabajo profundo.
+5.  **Output:** Personas altamente resolutivas y sin estrés por retrasos; eliminación de la carga mental de los "pendientes"; aumento masivo de la productividad real; satisfacción personal por el deber cumplido.
+
+---
+
+## 7. Ejemplo Práctico: El caso del Consultor 'Javier'
+**Reto:** Javier tenía que redactar una propuesta de 50 páginas para un cliente muy importante. Llevaba dos semanas posponiéndolo, "limpiando el correo" y "organizando su mesa" compulsivamente. El miedo a que la propuesta no fuera perfecta le impedía empezar. La fecha de entrega era en 3 días.
+**Acción v2.0:** Implementaron Skill 292. La IA desglosó la propuesta en 40 bloques pequeños. Javier activó el 'Modo Borrador Basura' y escribió 10 páginas de ideas sueltas sin importar el formato. Al ver que ya tenía "algo", el miedo desapareció. El sistema bloqueó su navegador excepto para búsquedas técnicas.
+**Resultado:** Terminó la propuesta en 36 horas. El cliente la calificó de "brillante y auténtica". Javier aprendió que su mayor enemigo no era el tiempo, sino su propio perfeccionismo, y ahora usa el desglose atómico para cada nuevo proyecto, trabajando con una calma que nunca antes había conocido.
+
+---
+**Autor:** Jesús García Fernández  
+**Licencia:** CC BY-NC-SA 4.0
