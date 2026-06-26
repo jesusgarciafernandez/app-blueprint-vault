@@ -1,3 +1,5 @@
+![App Blueprint Vault](banner.svg)
+
 # 🛸 App Blueprint Vault — 24 packs de skills para tu IA de código
 
 > **Convierte cualquier IA (Claude, Cursor, Codex, Windsurf…) en un especialista** con el
