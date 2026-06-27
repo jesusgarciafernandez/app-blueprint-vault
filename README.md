@@ -2,7 +2,7 @@
 
 # 🛸 App Blueprint Vault — 24 packs de skills para tu IA de código
 
-![Versión](https://img.shields.io/badge/versi%C3%B3n-2.0.0-6f42c1)
+![Versión](https://img.shields.io/badge/versi%C3%B3n-2.1.0-6f42c1)
 ![Skills](https://img.shields.io/badge/skills-590%2B-22c55e)
 ![Packs](https://img.shields.io/badge/packs-24-0ea5e9)
 ![Licencia](https://img.shields.io/badge/licencia-CC%20BY--NC--SA%204.0-blue)
@@ -93,7 +93,7 @@ o adaptar esta bóveda a tu sector— hablemos:
 ## Licencia
 
 Skills bajo **CC BY-NC-SA 4.0**: uso libre no comercial **citando la fuente** (Jesús García Fernández).
-Para uso comercial, contáctame. · Versión de la bóveda: 2.0.0
+Para uso comercial, contáctame. · Versión de la bóveda: 2.1.0
 
 ---
-*App Blueprint Vault v2.0.0 — Jesús García Fernández.*
+*App Blueprint Vault v2.1.0 — Jesús García Fernández.*
